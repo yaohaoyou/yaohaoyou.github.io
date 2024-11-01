@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yaohaoyou.github.io</id>
+    <title>yaohaoyou</title>
+    <updated>2024-11-01T08:33:48.241Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yaohaoyou.github.io"/>
+    <link rel="self" href="https://yaohaoyou.github.io/atom.xml"/>
+    <subtitle>yaohaoyou 的博客</subtitle>
+    <logo>https://yaohaoyou.github.io/images/avatar.png</logo>
+    <icon>https://yaohaoyou.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2024, yaohaoyou</rights>
+    <entry>
+        <title type="html"><![CDATA[P8180 「EZEC-11」Unmemorable 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/P8180-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/P8180-solution/">
+        </link>
+        <updated>2024-11-01T08:30:39.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ARC185 做题记录]]></title>
+        <id>https://yaohaoyou.github.io/post/arc185-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/arc185-solution/">
+        </link>
+        <updated>2024-10-31T13:38:33.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[光速幂学习笔记]]></title>
+        <id>https://yaohaoyou.github.io/post/FastPow/</id>
+        <link href="https://yaohaoyou.github.io/post/FastPow/">
+        </link>
+        <updated>2024-10-30T01:09:31.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CF1995D Cases 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/CF1995D-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/CF1995D-solution/">
+        </link>
+        <updated>2024-09-25T00:08:33.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P4593 [TJOI2018] 教科书般的亵渎 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/p4593-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/p4593-solution/">
+        </link>
+        <updated>2024-08-19T03:49:38.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024.8.12 树专题分享]]></title>
+        <id>https://yaohaoyou.github.io/post/2024.8.11 trees/</id>
+        <link href="https://yaohaoyou.github.io/post/2024.8.11 trees/">
+        </link>
+        <updated>2024-08-08T13:12:57.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[数学学习笔记]]></title>
+        <id>https://yaohaoyou.github.io/post/maths/</id>
+        <link href="https://yaohaoyou.github.io/post/maths/">
+        </link>
+        <updated>2024-07-10T13:53:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P10637 BZOJ4262 Sum]]></title>
+        <id>https://yaohaoyou.github.io/post/p10637-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/p10637-solution/">
+        </link>
+        <updated>2024-07-05T01:27:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P4897 【模板】最小割树（Gomory-Hu Tree） ]]></title>
+        <id>https://yaohaoyou.github.io/post/p4897-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/p4897-solution/">
+        </link>
+        <updated>2024-07-03T11:16:27.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[鲜花1]]></title>
+        <id>https://yaohaoyou.github.io/post/flower1/</id>
+        <link href="https://yaohaoyou.github.io/post/flower1/">
+        </link>
+        <updated>2024-07-03T08:32:30.000Z</updated>
+    </entry>
+</feed>
