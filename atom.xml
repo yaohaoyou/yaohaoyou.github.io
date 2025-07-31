@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yaohaoyou.github.io</id>
+    <title>yaohaoyou</title>
+    <updated>2025-07-31T03:57:45.229Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yaohaoyou.github.io"/>
+    <link rel="self" href="https://yaohaoyou.github.io/atom.xml"/>
+    <subtitle>yaohaoyou 的博客</subtitle>
+    <logo>https://yaohaoyou.github.io/images/avatar.png</logo>
+    <icon>https://yaohaoyou.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2025, yaohaoyou</rights>
+    <entry>
+        <title type="html"><![CDATA[暑假讲题]]></title>
+        <id>https://yaohaoyou.github.io/post/summer-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/summer-solution/">
+        </link>
+        <updated>2025-07-31T03:53:01.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比赛题解]]></title>
+        <id>https://yaohaoyou.github.io/post/contest-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/contest-solution/">
+        </link>
+        <updated>2025-07-10T09:14:28.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[PKUWC 2025]]></title>
+        <id>https://yaohaoyou.github.io/post/pkuwc2025/</id>
+        <link href="https://yaohaoyou.github.io/post/pkuwc2025/">
+        </link>
+        <updated>2025-03-25T07:31:18.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDOI2025 又记]]></title>
+        <id>https://yaohaoyou.github.io/post/GDOI2025/</id>
+        <link href="https://yaohaoyou.github.io/post/GDOI2025/">
+        </link>
+        <updated>2025-03-03T07:25:02.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOIP 犹记]]></title>
+        <id>https://yaohaoyou.github.io/post/noip2024/</id>
+        <link href="https://yaohaoyou.github.io/post/noip2024/">
+        </link>
+        <updated>2024-12-06T07:21:55.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT_arc187_d Many Easy Optimizations 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/AT_arc187_d-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/AT_arc187_d-solution/">
+        </link>
+        <updated>2024-11-22T11:41:34.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CP duels记录]]></title>
+        <id>https://yaohaoyou.github.io/post/cp-duels/</id>
+        <link href="https://yaohaoyou.github.io/post/cp-duels/">
+        </link>
+        <updated>2024-11-19T08:22:23.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P10743 AND = OR 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/P10743-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/P10743-solution/">
+        </link>
+        <updated>2024-11-15T11:01:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CF198E Gripping Story题解]]></title>
+        <id>https://yaohaoyou.github.io/post/CF198E-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/CF198E-solution/">
+        </link>
+        <updated>2024-11-14T10:14:43.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSP2024 煤济]]></title>
+        <id>https://yaohaoyou.github.io/post/csp2024/</id>
+        <link href="https://yaohaoyou.github.io/post/csp2024/">
+        </link>
+        <updated>2024-11-04T12:13:59.000Z</updated>
+    </entry>
+</feed>
