@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yaohaoyou.github.io</id>
+    <title>yaohaoyou</title>
+    <updated>2026-01-30T07:55:07.333Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yaohaoyou.github.io"/>
+    <link rel="self" href="https://yaohaoyou.github.io/atom.xml"/>
+    <subtitle>yaohaoyou 的博客</subtitle>
+    <logo>https://yaohaoyou.github.io/images/avatar.png</logo>
+    <icon>https://yaohaoyou.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, yaohaoyou</rights>
+    <entry>
+        <title type="html"><![CDATA[讲题-XDFZ]]></title>
+        <id>https://yaohaoyou.github.io/post/teaching-xdfz/</id>
+        <link href="https://yaohaoyou.github.io/post/teaching-xdfz/">
+        </link>
+        <updated>2026-01-30T07:52:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[比赛-XDFZ]]></title>
+        <id>https://yaohaoyou.github.io/post/contest-xdfz/</id>
+        <link href="https://yaohaoyou.github.io/post/contest-xdfz/">
+        </link>
+        <updated>2026-01-30T07:50:13.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT_arc213_c Double X 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/AT_arc213_c-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/AT_arc213_c-solution/">
+        </link>
+        <updated>2026-01-29T12:32:59.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[wqs 二分学习笔记]]></title>
+        <id>https://yaohaoyou.github.io/post/wqs-binary-search/</id>
+        <link href="https://yaohaoyou.github.io/post/wqs-binary-search/">
+        </link>
+        <updated>2026-01-12T13:55:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDKOI2025复活赛]]></title>
+        <id>https://yaohaoyou.github.io/post/gdkoi2025/</id>
+        <link href="https://yaohaoyou.github.io/post/gdkoi2025/">
+        </link>
+        <updated>2025-12-27T12:40:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NOIP2025]]></title>
+        <id>https://yaohaoyou.github.io/post/noip2025/</id>
+        <link href="https://yaohaoyou.github.io/post/noip2025/">
+        </link>
+        <updated>2025-12-07T14:36:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P4299 首都 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/p4299-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/p4299-solution/">
+        </link>
+        <updated>2025-11-18T23:39:45.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CSP2025 油机]]></title>
+        <id>https://yaohaoyou.github.io/post/CSP2025/</id>
+        <link href="https://yaohaoyou.github.io/post/CSP2025/">
+        </link>
+        <updated>2025-11-18T13:07:44.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P3688 [ZJOI2017] 树状数组 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/p3688-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/p3688-solution/">
+        </link>
+        <updated>2025-09-04T13:11:08.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[暑假讲题]]></title>
+        <id>https://yaohaoyou.github.io/post/summer-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/summer-solution/">
+        </link>
+        <updated>2025-07-31T03:53:01.000Z</updated>
+    </entry>
+</feed>
