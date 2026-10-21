@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://yaohaoyou.github.io</id>
+    <title>yaohaoyou</title>
+    <updated>2026-10-21T13:45:57.095Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://yaohaoyou.github.io"/>
+    <link rel="self" href="https://yaohaoyou.github.io/atom.xml"/>
+    <subtitle>yaohaoyou 的博客</subtitle>
+    <logo>https://yaohaoyou.github.io/images/avatar.png</logo>
+    <icon>https://yaohaoyou.github.io/favicon.ico</icon>
+    <rights>All rights reserved 2026, yaohaoyou</rights>
+    <entry>
+        <title type="html"><![CDATA[noip2026前集训]]></title>
+        <id>https://yaohaoyou.github.io/post/before-noip2026/</id>
+        <link href="https://yaohaoyou.github.io/post/before-noip2026/">
+        </link>
+        <updated>2026-09-11T11:06:42.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[ZR暑假集训讲题]]></title>
+        <id>https://yaohaoyou.github.io/post/zr-summer-teaching/</id>
+        <link href="https://yaohaoyou.github.io/post/zr-summer-teaching/">
+        </link>
+        <updated>2026-08-03T08:24:16.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[P16160 [ICPC 2016 NAIPC] Jewel Thief 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/p16160-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/p16160-solution/">
+        </link>
+        <updated>2026-07-15T11:45:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT_arc221_a Two Arithmetic Progressions 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/AT_arc221_a-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/AT_arc221_a-solution/">
+        </link>
+        <updated>2026-06-02T06:43:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AT_arc221_b Two-Powered Sum 题解]]></title>
+        <id>https://yaohaoyou.github.io/post/AT_arc221_b-solution/</id>
+        <link href="https://yaohaoyou.github.io/post/AT_arc221_b-solution/">
+        </link>
+        <updated>2026-06-01T07:35:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[联合省选 2026 游记]]></title>
+        <id>https://yaohaoyou.github.io/post/GDOI2026/</id>
+        <link href="https://yaohaoyou.github.io/post/GDOI2026/">
+        </link>
+        <updated>2026-03-27T12:28:00.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒假讲题2]]></title>
+        <id>https://yaohaoyou.github.io/post/teaching-winter2/</id>
+        <link href="https://yaohaoyou.github.io/post/teaching-winter2/">
+        </link>
+        <updated>2026-01-31T08:16:35.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒假讲题]]></title>
+        <id>https://yaohaoyou.github.io/post/teaching-winter/</id>
+        <link href="https://yaohaoyou.github.io/post/teaching-winter/">
+        </link>
+        <updated>2026-01-30T07:52:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒假讲题]]></title>
+        <id>https://yaohaoyou.github.io/post/teaching-winter1/</id>
+        <link href="https://yaohaoyou.github.io/post/teaching-winter1/">
+        </link>
+        <updated>2026-01-30T07:52:29.000Z</updated>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[寒假比赛]]></title>
+        <id>https://yaohaoyou.github.io/post/contest-winter/</id>
+        <link href="https://yaohaoyou.github.io/post/contest-winter/">
+        </link>
+        <updated>2026-01-30T07:50:13.000Z</updated>
+    </entry>
+</feed>
